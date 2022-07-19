@@ -1,0 +1,10 @@
+{
+  "name": "cypress-testing-project",
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }, "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  }
+}
